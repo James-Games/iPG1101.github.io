@@ -1,4 +1,4 @@
-{gravityForce: 0.02,
+({gravityForce: 0.02,
 playertexture: 0,
 entities: [new Block(30,300,259,26),
 new Block(587,359,55,21),
@@ -14,4 +14,4 @@ new Block(2308,23,181,193),
 new Block(2474,313,92,47),
 new Block(2981,346,154,54),
 new Block(3403,146,42,31),
-new Finish(3652)]}
+new Finish(3652)]})
